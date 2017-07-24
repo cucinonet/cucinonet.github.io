@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function($n) { return Number(($n!=1)); }, 'strings': { "The selected file %filename cannot not be uploaded. Only files with the following extensions are allowed: %extensions.": "Il file selezionato %filename non può essere caricato. Solo i seguenti tipi di file possono essere caricati: %extensions." } };
